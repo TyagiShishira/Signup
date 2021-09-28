@@ -1,0 +1,29 @@
+{
+  "name": "LoginFramework",
+  "version": "1.0.0",
+  "summary": "A short description of AyushiFramework.",
+  "description": "New Desciption for framework",
+  "homepage": "https://github.com/TyagiShishira/LoginFramework.git",
+  "license": "-",
+  "authors": {
+    "TyagiShishira": "ayushityagi601@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://github.com/TyagiShishira/LoginFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LoginFramework/**/*.{swift,h,m}",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "SnapKit": [
+
+    ],
+    "Alamofire": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
